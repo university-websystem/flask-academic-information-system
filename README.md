@@ -61,11 +61,6 @@ Project
     │   │   ├── subject.py      # 과목 정보 CRUD 라우트
     │   │   └── user.py         # 사용자 정보 CRUD 라우트
     │   │
-    │   ├── static               # 정적 파일(JS, CSS, 이미지 등) 저장 폴더
-    │   │   └── js
-    │   │       ├── login.js    # 로그인 처리 관련 JS
-    │   │       └── token.js    # JWT 토큰 관리 JS
-    │   │
     │   ├── templates           # HTML 템플릿 폴더
     │   │   └── index.html      # 메인 페이지
     │   │
